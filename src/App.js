@@ -1,6 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import jsPDF from "jspdf";
-import { AlertTriangle, ShieldCheck, Trash2, Plus } from "lucide-react";
+import { ShieldCheck, Trash2, Plus } from "lucide-react";
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from "recharts";
 
 export default function App() {
